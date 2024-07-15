@@ -366,7 +366,7 @@
 "@next/react-dev-overlay@12.0.4":
   version "12.0.4"
   resolved "https://registry.npmjs.org/@next/react-dev-overlay/-/react-dev-overlay-12.0.4.tgz"
-  integrity sha512-9O0lXyzv5goFSmDwq9Hp8JE+DcObvd+bTXvmGSSvYR91AlIoVlH8/PwATx8Rf5YEuqggn/XKR1hn2kBYcbcGnA==
+  
   dependencies:
     "@babel/code-frame" "7.12.11"
     anser "1.4.9"
