@@ -1,14 +1,17 @@
 import Link from "next/link";
+import Image from "next/image";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
   <Layout title="Coming Soon - Clean Coming Soon Page (Tailwind CSS, NextJs & HTML5) created by themeptation.net">
-    <img
+    <Image
+      layout="fill"
       src="/images/xera.svg"
       alt="Themeptation "
       className="absolute h-96 -top-20 -right-16 lg:right-5 lg:top-10 animate-blob"
     />
-    <img
+    <Image
+      layout="fill"
       src="/images/shapes.svg"
       alt="hero"
       className="absolute w-full left-24 bottom-24 animate-blob2"
